@@ -1,0 +1,21 @@
+.card{
+    background-image: linear-gradient( 135deg, #90F7EC 10%, #32CCBC 100%);
+}
+
+.logo{
+    color: #32CCBC;
+}
+
+.winner-card{
+    height: 100vh ;
+    width: 100% !important;
+    position: absolute;
+    top:0;
+    left:0;
+    background-color : #f7f7f7;
+    z-index: 100;
+}
+
+.bt-outline, .bt-outline:hover{
+    border: 2px solid  #32CCBC;
+}
